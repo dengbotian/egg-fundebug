@@ -1,6 +1,6 @@
 {
   "name": "@dengzhaofun/egg-fundebug",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "",
   "eggPlugin": {
     "name": "fundebug"
@@ -11,7 +11,6 @@
     "egg-plugin"
   ],
   "dependencies": {
-    "fundebug-nodejs": "^0.0.9"
   },
   "devDependencies": {
     "autod": "^3.0.0",
